@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.stars {
+  color: rgb(182, 158, 20);
+}
+
+.question {
+  display: flex;
+  flex-direction: column;
+}

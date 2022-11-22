@@ -1,0 +1,35 @@
+.survey {
+    background-color: #738276;
+    padding: 15px;
+    border-radius: 14px;
+    color: white
+  }
+
+  .form {
+    background-color: #bebebe;
+    padding: 15px;
+    border-radius: 14px;
+    color: black
+  }
+
+  .alert {
+    color: #ff4500;
+  }
+
+  .Rating {
+    margin: 20px;
+  }
+
+  .submit {
+    background-color: #738276;
+    padding: 15px;
+    border-radius: 14px;
+    color: white
+  }
+
+  .preview {
+    background-color: #bebebe;
+    padding: 15px;
+    border-radius: 14px;
+    color: black
+  }
